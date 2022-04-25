@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jjjia/source/repos/monogame/Lab/Lab03_Pong/Content/Ball.png","C:/Users/jjjia/source/repos/monogame/Lab/Lab03_Pong/Content/bin/Windows/Content/Ball.xnb","TextureProcessor","Texture2DContent",2856,281,0.3880043
+"C:/Users/jjjia/source/repos/monogame/Lab/Lab03_Pong/Content/Court.png","C:/Users/jjjia/source/repos/monogame/Lab/Lab03_Pong/Content/bin/Windows/Content/Court.xnb","TextureProcessor","Texture2DContent",2203,144685,0.0129658
+"C:/Users/jjjia/source/repos/monogame/Lab/Lab03_Pong/Content/HUDBackground.png","C:/Users/jjjia/source/repos/monogame/Lab/Lab03_Pong/Content/bin/Windows/Content/HUDBackground.xnb","TextureProcessor","Texture2DContent",2988,55033,0.0119259
+"C:/Users/jjjia/source/repos/monogame/Lab/Lab03_Pong/Content/Menu.png","C:/Users/jjjia/source/repos/monogame/Lab/Lab03_Pong/Content/bin/Windows/Content/Menu.xnb","TextureProcessor","Texture2DContent",115721,377973,0.0189071
+"C:/Users/jjjia/source/repos/monogame/Lab/Lab03_Pong/Content/Paddle.png","C:/Users/jjjia/source/repos/monogame/Lab/Lab03_Pong/Content/bin/Windows/Content/Paddle.xnb","TextureProcessor","Texture2DContent",2803,229,0.0079373
+"C:/Users/jjjia/source/repos/monogame/Lab/Lab03_Pong/Content/SystemArialFont.spritefont","C:/Users/jjjia/source/repos/monogame/Lab/Lab03_Pong/Content/bin/Windows/Content/SystemArialFont.xnb","FontDescriptionProcessor","SpriteFontContent",2073,21521,0.1954766

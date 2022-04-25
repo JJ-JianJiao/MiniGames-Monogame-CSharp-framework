@@ -1,0 +1,91 @@
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\Content\blackLine.xnb
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\Content\BlankBoard.xnb
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\Content\O.xnb
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\Content\SystemArialFont.xnb
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\Content\TicTacToeBoard.xnb
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\Content\X.xnb
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\cnobert\Downloads\TicTacToe\Game1\obj\x86\Debug\TicTacToeLabSolution.csprojAssemblyReference.cache
+C:\Users\cnobert\Downloads\TicTacToe\Game1\obj\x86\Debug\TicTacToeLabSolution.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Downloads\TicTacToe\Game1\obj\x86\Debug\TicTacToeLabSolution.csproj.CopyComplete
+C:\Users\cnobert\Downloads\TicTacToe\Game1\obj\x86\Debug\Game1.exe
+C:\Users\cnobert\Downloads\TicTacToe\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\cnobert\Downloads\TicTacToe\Game1\bin\Windows\x86\Debug\Content\HUDBackground.xnb
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\blackLine.xnb
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\BlankBoard.xnb
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\HUDBackground.xnb
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\O.xnb
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\SystemArialFont.xnb
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\TicTacToeBoard.xnb
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\X.xnb
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\obj\x86\Debug\TicTacToeLabSolution.csprojAssemblyReference.cache
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\obj\x86\Debug\TicTacToeLabSolution.csproj.CopyComplete
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\obj\x86\Debug\Game1.exe
+C:\Users\jjjia\source\repos\monogame\TicTacToe - HUD\TicTacToe - HUD\Game1\obj\x86\Debug\Game1.pdb
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\blackLine.xnb
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\BlankBoard.xnb
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\HUDBackground.xnb
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\O.xnb
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\SystemArialFont.xnb
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\TicTacToeBoard.xnb
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Content\X.xnb
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Game1.exe.config
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Game1.exe
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\Game1.pdb
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.dll
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.xml
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\obj\x86\Debug\TicTacToeLabSolution.csproj.AssemblyReference.cache
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\obj\x86\Debug\TicTacToeLabSolution.csproj.SuggestedBindingRedirects.cache
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\obj\x86\Debug\TicTacToeLabSolution.csproj.CoreCompileInputs.cache
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\obj\x86\Debug\TicTacToeLabSolution.csproj.CopyComplete
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\obj\x86\Debug\Game1.exe
+D:\NAIT\1514\TicTacToe - HUD\TicTacToe - HUD\Game1\obj\x86\Debug\Game1.pdb

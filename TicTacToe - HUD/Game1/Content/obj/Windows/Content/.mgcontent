@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/blackLine.png</File>
+    <File>D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/BlankBoard.png</File>
+    <File>D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/HUDBackground.png</File>
+    <File>D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/O.png</File>
+    <File>D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/SystemArialFont.spritefont</File>
+    <File>D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/TicTacToeBoard.png</File>
+    <File>D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/X.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

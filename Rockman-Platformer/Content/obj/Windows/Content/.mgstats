@@ -1,0 +1,15 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/brick.png","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/brick.xnb","TextureProcessor","Texture2DContent",1724,8277,0.12766
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/brick2.png","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/brick2.xnb","TextureProcessor","Texture2DContent",1724,8277,0.0079791
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/CoinSprite.png","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/CoinSprite.xnb","TextureProcessor","Texture2DContent",26425,65621,0.0079798
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/ColliderBottom.png","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/ColliderBottom.xnb","TextureProcessor","Texture2DContent",2493,551389,0.0239358
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/ColliderLeft.png","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/ColliderLeft.xnb","TextureProcessor","Texture2DContent",2530,551389,0.0219412
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/ColliderRight.png","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/ColliderRight.xnb","TextureProcessor","Texture2DContent",2496,551389,0.0299182
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/ColliderTop.png","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/ColliderTop.xnb","TextureProcessor","Texture2DContent",2493,551389,0.0209444
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/Mosquito.png","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/Mosquito.xnb","TextureProcessor","Texture2DContent",9900,81045,0.009973
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/RockmanIdl.png","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/RockmanIdl.xnb","TextureProcessor","Texture2DContent",3625,25877,0.0059839
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/RockmanJump.png","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/RockmanJump.xnb","TextureProcessor","Texture2DContent",2029,3433,0.0059851
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/RockmanRuning.png","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/RockmanRuning.xnb","TextureProcessor","Texture2DContent",2318,6485,0.0049869
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/RockmanRuning2.png","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/RockmanRuning2.xnb","TextureProcessor","Texture2DContent",2861,12085,0.0049875
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/SystemArialFont.spritefont","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/SystemArialFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37905,0.1865009
+"D:/NAIT/1514/Labs/Lab06-Platformer/Content/ZeldaWalking.png","D:/NAIT/1514/Labs/Lab06-Platformer/Content/bin/Windows/Content/ZeldaWalking.xnb","TextureProcessor","Texture2DContent",11762,151285,0.0109697

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/brick.png</File>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/brick2.png</File>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/CoinSprite.png</File>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/ColliderBottom.png</File>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/ColliderLeft.png</File>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/ColliderRight.png</File>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/ColliderTop.png</File>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/Mosquito.png</File>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/RockmanIdl.png</File>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/RockmanJump.png</File>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/RockmanRuning.png</File>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/RockmanRuning2.png</File>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/SystemArialFont.spritefont</File>
+    <File>D:/NAIT/1514/Labs/Lab06-Platformer/Content/ZeldaWalking.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

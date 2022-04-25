@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/Background.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/Barrel.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/Cannon.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/CannonBall.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/CannonBall_01.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/CannonBall_02.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/CannonBall_03.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/CannonBall_04.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/Fireball.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/MarcoRossi.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/MenuBG.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/Mosquito.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/NetOne.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/NetTwo.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/NormalIcon.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/Poof.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/Shiled.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/SineIcon.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/SplitIcon.png</File>
+    <File>C:/Users/Administrator/source/repos/Monogame/MosquitoAttackGame/MosquitoAttack/Content/SystemArialFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

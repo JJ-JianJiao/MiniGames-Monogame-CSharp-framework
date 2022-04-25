@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/cnobert/Downloads/Lab06_TopDownShooter-BEGIN/TopDownShooter/Content/CannonBall.png</File>
+    <File>C:/Users/cnobert/Downloads/Lab06_TopDownShooter-BEGIN/TopDownShooter/Content/Fireball.png</File>
+    <File>C:/Users/cnobert/Downloads/Lab06_TopDownShooter-BEGIN/TopDownShooter/Content/Poof.png</File>
+    <File>C:/Users/cnobert/Downloads/Lab06_TopDownShooter-BEGIN/TopDownShooter/Content/Ship.png</File>
+    <File>C:/Users/cnobert/Downloads/Lab06_TopDownShooter-BEGIN/TopDownShooter/Content/Square.png</File>
+    <File>C:/Users/cnobert/Downloads/Lab06_TopDownShooter-BEGIN/TopDownShooter/Content/SystemArialFont.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

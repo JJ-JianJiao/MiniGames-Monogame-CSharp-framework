@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/NAIT/1514/Labs/Lab05_Inheritance_Debugging/TopDownShooter/Content/SystemArialFont.spritefont</SourceFile>
+  <SourceTime>2019-03-22T13:56:00-06:00</SourceTime>
+  <DestFile>D:/NAIT/1514/Labs/Lab05_Inheritance_Debugging/TopDownShooter/Content/bin/Windows/Content/SystemArialFont.xnb</DestFile>
+  <DestTime>2022-04-25T00:53:22.8558253-06:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T09:35:54-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T09:35:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

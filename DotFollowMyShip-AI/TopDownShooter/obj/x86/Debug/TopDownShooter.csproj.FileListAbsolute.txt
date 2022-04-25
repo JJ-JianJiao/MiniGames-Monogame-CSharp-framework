@@ -1,0 +1,347 @@
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojResolveAssemblyReference.cache
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\Cannon.xnb
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\CannonBall.xnb
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\Fireball.xnb
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\Mosquito.xnb
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\Poof.xnb
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\spaceshuttle.xnb
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\Square.xnb
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\SystemArialFont.xnb
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+C:\Users\cnobert\Documents\Visual Studio 2015\Projects\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\Cannon.xnb
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\CannonBall.xnb
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\Fireball.xnb
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\Mosquito.xnb
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\Poof.xnb
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\spaceshuttle.xnb
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\Square.xnb
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\Content\SystemArialFont.xnb
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojResolveAssemblyReference.cache
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+C:\Users\cnobert\Documents\2018-Jan-DMIT1514\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Cannon.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\CannonBall.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Fireball.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Poof.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\spaceshuttle.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Square.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\SystemArialFont.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CopyComplete
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Ship.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\CannonBall.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Fireball.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Poof.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Ship.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\spaceshuttle.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Square.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\SystemArialFont.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\Background.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\Cannon.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\CannonBall.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\Fireball.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\Poof.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\Ship.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\spaceshuttle.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\Square.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\SystemArialFont.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Cannon.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Mosquito.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojAssemblyReference.cache
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CopyComplete
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE (1)\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\Background.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\Cannon.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\CannonBall.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\Fireball.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\Poof.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\Ship.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\spaceshuttle.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\Square.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Content\SystemArialFont.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Mosquito.xnb
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojAssemblyReference.cache
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Cannon.xnb
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\spaceshuttle.xnb
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\CannonBall.xnb
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Fireball.xnb
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Poof.xnb
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Ship.xnb
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\Square.xnb
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\Content\SystemArialFont.xnb
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\cnobert\OneDrive - NAIT\2019-Jan-DMIT1514\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CopyComplete
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-COMPLETE\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojAssemblyReference.cache
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-BEGIN\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojAssemblyReference.cache
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-BEGIN\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-BEGIN\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+C:\Users\cnobert\Downloads\Lab06_TopDownShooter-BEGIN\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojAssemblyReference.cache
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\Cannon.xnb
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\spaceshuttle.xnb
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\CannonBall.xnb
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\Fireball.xnb
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\Poof.xnb
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\Ship.xnb
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\Square.xnb
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\SystemArialFont.xnb
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\cnobert\Downloads\work\Lab06_TopDownShooter-BEGIN\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\Cannon.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\spaceshuttle.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\CannonBall.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\Fireball.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\Poof.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\Ship.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\Square.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\Content\SystemArialFont.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_TopDownShooter-BEGIN\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\Content\Cannon.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\Content\spaceshuttle.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\Content\CannonBall.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\Content\Fireball.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\Content\Poof.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\Content\Ship.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\Content\Square.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\Content\SystemArialFont.xnb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+C:\Users\Administrator\source\repos\Monogame\Lab04\Lab05_TopDownShooter-BEGIN\Lab05_TopDownShooter-BEGIN (1)\Lab05_Inheritance_Debugging_Jian_Jiao\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\Cannon.xnb
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\spaceshuttle.xnb
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\CannonBall.xnb
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\Fireball.xnb
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\Poof.xnb
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\Ship.xnb
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\Square.xnb
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\SystemArialFont.xnb
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojAssemblyReference.cache
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CopyComplete
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+C:\Users\jjjia\source\repos\monogame\Labs\Lab05_Inheritance_Debugging\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\Background.xnb
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\Cannon.xnb
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\spaceshuttle.xnb
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\CannonBall.xnb
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\Fireball.xnb
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\Poof.xnb
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\Ship.xnb
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\Square.xnb
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\Content\SystemArialFont.xnb
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe.config
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.exe
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\TopDownShooter.pdb
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.dll
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.xml
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.AssemblyReference.cache
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.SuggestedBindingRedirects.cache
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CoreCompileInputs.cache
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\obj\x86\Debug\TopDownShooter.csproj.CopyComplete
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+D:\NAIT\1514\Labs\Lab05_Inheritance_Debugging\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb

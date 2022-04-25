@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/NAIT/1514/Pong/Pong/Content/Ball.png","D:/NAIT/1514/Pong/Pong/Content/bin/Windows/Content/Ball.xnb","TextureProcessor","Texture2DContent",2856,281,0.1238154
+"D:/NAIT/1514/Pong/Pong/Content/Court.png","D:/NAIT/1514/Pong/Pong/Content/bin/Windows/Content/Court.xnb","TextureProcessor","Texture2DContent",4460,150085,0.0098322
+"D:/NAIT/1514/Pong/Pong/Content/Paddle.png","D:/NAIT/1514/Pong/Pong/Content/bin/Windows/Content/Paddle.xnb","TextureProcessor","Texture2DContent",2803,229,0.0059847

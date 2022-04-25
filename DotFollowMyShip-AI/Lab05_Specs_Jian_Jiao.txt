@@ -1,0 +1,14 @@
+The attached project, TopDownShooter-BEGIN, has two classes that have a lot in common, ShipPlayer and ShipNonPlayer. 
+
+There are 4 errors in the distributed code. Fix each of them, preferably using the debugger:
+completed--(2 marks) Compile-time errors: The code does not compile. Fix it.
+completed--(1 mark) Logic error: The enemy ship acts weird. It should just arrive at a point near the player ship and then stop. Make it stop acting weird.
+completed--(1 mark) Logic error: Projectiles do not shoot when the Player presses the space bar. Fix that.
+completed-- (1 mark) Logic error: Projectiles fired from the player ship don't affect the enemy ship. They should kill the enemy ship and end the game. Fix that.
+completed--(2 marks) Create a parent class, GameBot, that both ShipPlayer and ShipNonPlayer inherit from. It should contain every data member and method that is redundant between ShipPlayer and ShipNonPlayer.
+completed--(2 marks) Make ShipPlayer inherit from GameBot, moving every data member and method that it has in common with ShipNonPlayer to GameBot.
+completed--(2 marks) Make ShipNonPlayer inherit from GameBot, moving every data member and method that it has in common with ShipPlayer to GameBot.
+completed--(2 marks) Create a parent class called "Projectile". Move everything that is not specific to CannonBall into it. 
+completed--(1 mark) Have CannonBall inherit from Projectile.
+completed--(1 mark) Remove one of the "CheckForHit" methods in CannonBall, and change the remaining one so that it accepts a GameBot as a parameter.
+completed--(1 mark) If you're doing this lab in the middle of a pandemic, give yourself one free mark.

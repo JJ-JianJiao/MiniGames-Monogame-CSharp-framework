@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson04BackgroundAndAnimotion", "Lesson04BackgroundAndAnimotion.csproj", "{DF5DC3C5-1884-40A5-B869-04D46B0B5575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5DC3C5-1884-40A5-B869-04D46B0B5575}.Debug|x86.ActiveCfg = Debug|x86
+		{DF5DC3C5-1884-40A5-B869-04D46B0B5575}.Debug|x86.Build.0 = Debug|x86
+		{DF5DC3C5-1884-40A5-B869-04D46B0B5575}.Release|x86.ActiveCfg = Release|x86
+		{DF5DC3C5-1884-40A5-B869-04D46B0B5575}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67209624-E5F3-4455-87B4-CEC1B3143776}
+	EndGlobalSection
+EndGlobal

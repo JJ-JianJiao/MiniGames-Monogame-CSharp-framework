@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/cnobert/Documents/temp/TicTacToe/Game1/Content/SystemArialFont.spritefont</SourceFile>
+  <SourceTime>2016-01-08T13:54:16-07:00</SourceTime>
+  <DestFile>C:/Users/cnobert/Documents/temp/TicTacToe/Game1/Content/bin/Windows/SystemArialFont.xnb</DestFile>
+  <DestTime>2018-02-05T13:32:23.4151457-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

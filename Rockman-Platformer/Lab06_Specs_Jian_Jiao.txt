@@ -1,0 +1,19 @@
+completed--------(1 mark) It has a player that can move left and right, and jump up and down
+
+completed--------(2 marks) The player is animated, with a different animation for its idle, jump, and move states respectively (note: the jump animation can play repeatedly while the player jumps - agreed, it's not perfect). The player's walk and jump animations should be facing the direction in which she is moving.
+
+completed--------(1 mark) The game has platforms that are visible in the air (the platforms should have their own textures. The textures of the colliders should not be visible). The platforms can be landed on by the player, and can be collided with (and properly reacted to) by the player from all sides
+
+completed--------(1 mark) The player falls off of a platform when he/she walks off of it
+
+completed--------(1 mark) There are at least 6 platforms in the game.
+
+completed--------(2 marks) The game has a beginning, a goal/achievement, and an end.
+
+completed--------(1 mark) The game has at least one moving platform (that moves back and forth or up and down, for example).
+
+completed--------(1 mark) The game has something that can be collected (like coins). Collecting these somethings helps the player finish the game.
+
+completed--------(1 mark) Add a "play once" method to the animation player, and then have the jump animation play only once on jump. The jump "animation" can be only one frame if you want (in which case, you wouldn't have to "animate" it, per say).
+
+completed--------(1 mark) Redesign the Collider class so that Collider is a parent to ColliderTop, ColliderRight, ColliderBottom and ColliderLeft

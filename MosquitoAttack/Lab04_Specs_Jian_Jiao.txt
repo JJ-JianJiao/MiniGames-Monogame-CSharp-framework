@@ -1,0 +1,31 @@
+**************************************REQUIRED:*************************************************
+completed---------(1 mark) Add start, pause, and game over states, along with a mechanism with which to choose among them. Make sure that the cannon and mosquito have states as well (Alive, Dying, Dead, for example)
+Make the game an actual game:
+
+completed---------(4 marks) The player will have three lives, and move to the next level when she kills all of the mosquitoes (at least two levels)
+***************************************OPTIONAL (Add these until you add up to 15 more marks, for a total of 20 marks)
+
+completed---------(1 mark) Add a HUD to the game. The HUD will have a separate background, and will be added to the sides, top, or bottom of the current playing screen. The HUD should display at least 3 values (of your choice).
+
+completed---------(1 mark) Add a level, over and above the ones from the last requirement, that incorporates some sort of new challenge.
+
+completed---------(2 marks) Make "sine wave" cannon balls.
+
+completed---------(2 marks) Add a different type of projectile for the cannon (with a different class, that acts differently than the cannon ball).
+
+completed---------(2 marks) Make the "poof" animation play exactly once when the Mosquito and Cannon die.
+
+completed---------(2 marks) Add a power-up to the game. It will confer some benefit to the Cannon. It will have a different class.
+
+completed---------(2 marks) Give some or all mosquitoes the ability to swoop down.
+(1 mark) Turn the game 90 degrees (you would have to add a different background).
+
+completed---------(2 marks) Give the player a "cannon buddy". This would be a non-player-bot who fights on the cannon's side, against the mosquitoes.
+
+completed---------(4 marks) Give the cannon a rotating barrel. One set of controls aims the barrel, another moves the cannon.
+
+completed---------(2 marks) Add reloading to the game. That is, make the cannon be able to run out of cannonballs, and give the player the ability to reload by pressing a button. This requirement would include an indicator to tell the player that the cannonballs have run out.
+
+completed---------(2 marks) Add a scale data member to all of your classes. Allow the player to choose what scale she wants the game to be displayed in.
+
+completed---------(2 marks) Add a moving barrier to the game. It will have its own class, be near the bottom of the screen, move back and forth, and block all projectiles.

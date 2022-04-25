@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/blackLine.png","D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/bin/Windows/Content/blackLine.xnb","TextureProcessor","Texture2DContent",118,5893,0.1466088
+"D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/BlankBoard.png","D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/bin/Windows/Content/BlankBoard.xnb","TextureProcessor","Texture2DContent",3248,115685,0.0568471
+"D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/HUDBackground.png","D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/bin/Windows/Content/HUDBackground.xnb","TextureProcessor","Texture2DContent",2988,27285,0.010971
+"D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/O.png","D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/bin/Windows/Content/O.xnb","TextureProcessor","Texture2DContent",4684,10085,0.119681
+"D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/SystemArialFont.spritefont","D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/bin/Windows/Content/SystemArialFont.xnb","FontDescriptionProcessor","SpriteFontContent",2073,21521,0.3720054
+"D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/TicTacToeBoard.png","D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/bin/Windows/Content/TicTacToeBoard.xnb","TextureProcessor","Texture2DContent",3376,115685,0.0847721
+"D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/X.png","D:/NAIT/1514/TicTacToe - HUD/TicTacToe - HUD/Game1/Content/bin/Windows/Content/X.xnb","TextureProcessor","Texture2DContent",4716,10085,0.0089765

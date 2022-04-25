@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/cnobert/Documents/DMIT1514/BouncingSprite/BouncingSprite/Content/SystemArialFont.spritefont</SourceFile>
+  <SourceTime>2016-01-08T13:55:46-07:00</SourceTime>
+  <DestFile>C:/Users/cnobert/Documents/DMIT1514/BouncingSprite/BouncingSprite/Content/bin/Windows/SystemArialFont.xnb</DestFile>
+  <DestTime>2018-01-16T13:00:33.3680024-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

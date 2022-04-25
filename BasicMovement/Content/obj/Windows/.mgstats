@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jjjia/source/repos/monogame/Lesson04BackgroundAndAnimotion/Content/Station.png","C:/Users/jjjia/source/repos/monogame/Lesson04BackgroundAndAnimotion/Content/bin/Windows/Station.xnb","TextureProcessor","Texture2DContent",212813,819285,0.1975094
+"C:/Users/jjjia/source/repos/monogame/Lesson04BackgroundAndAnimotion/Content/Walking.png","C:/Users/jjjia/source/repos/monogame/Lesson04BackgroundAndAnimotion/Content/bin/Windows/Walking.xnb","TextureProcessor","Texture2DContent",24842,373333,0.0335263

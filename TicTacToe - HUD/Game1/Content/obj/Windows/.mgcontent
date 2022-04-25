@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/cnobert/Documents/temp/TicTacToe/Game1/Content/O.png</File>
+    <File>C:/Users/cnobert/Documents/temp/TicTacToe/Game1/Content/SystemArialFont.spritefont</File>
+    <File>C:/Users/cnobert/Documents/temp/TicTacToe/Game1/Content/TicTacToeBoard.png</File>
+    <File>C:/Users/cnobert/Documents/temp/TicTacToe/Game1/Content/X.png</File>
+    <File>C:/Users/cnobert/Documents/temp/TicTacToe/Game1/Content/blackLine.png</File>
+    <File>C:/Users/cnobert/Documents/temp/TicTacToe/Game1/Content/BlankBoard.png</File>
+  </SourceFiles>
+</SourceFileCollection>

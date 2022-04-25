@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/NAIT/1514/Labs/Lab05_Inheritance_Debugging/TopDownShooter/Content/CannonBall.png</File>
+    <File>D:/NAIT/1514/Labs/Lab05_Inheritance_Debugging/TopDownShooter/Content/Fireball.png</File>
+    <File>D:/NAIT/1514/Labs/Lab05_Inheritance_Debugging/TopDownShooter/Content/Poof.png</File>
+    <File>D:/NAIT/1514/Labs/Lab05_Inheritance_Debugging/TopDownShooter/Content/Ship.png</File>
+    <File>D:/NAIT/1514/Labs/Lab05_Inheritance_Debugging/TopDownShooter/Content/Square.png</File>
+    <File>D:/NAIT/1514/Labs/Lab05_Inheritance_Debugging/TopDownShooter/Content/SystemArialFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jjjia/source/repos/monogame/BouncingSprite/BouncingSprite/BouncingSprite/Content/Beetle.png","C:/Users/jjjia/source/repos/monogame/BouncingSprite/BouncingSprite/BouncingSprite/Content/bin/Windows/Content/Beetle.xnb","TextureProcessor","Texture2DContent",958,16469,0.4079088
+"C:/Users/jjjia/source/repos/monogame/BouncingSprite/BouncingSprite/BouncingSprite/Content/SystemArialFont.spritefont","C:/Users/jjjia/source/repos/monogame/BouncingSprite/BouncingSprite/BouncingSprite/Content/bin/Windows/Content/SystemArialFont.xnb","FontDescriptionProcessor","SpriteFontContent",2073,21521,0.2094394

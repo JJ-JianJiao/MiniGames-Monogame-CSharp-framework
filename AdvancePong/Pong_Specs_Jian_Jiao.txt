@@ -1,0 +1,8 @@
+1.completed-(2 marks) Add states to the game. The player should see a start screen, then play the game, then a game over screen that gives them the option to play again. The game states could be START, INITIALIZING, SERVING, PLAYING, GAMEOVER.
+2.completed-(2 marks) Make actual Pong. Add another paddle to the other side, controlled by different keys. In implementing this, reuse the Paddle class (do NOT write another class). When the ball hits either side, it should exit the screen and the game should end.
+3.completed-(2 marks) Add a HUD to the game that keeps track of how many times each paddle has hit the ball, as well as the high score for the session.
+4.completed-(1 mark) When the game begins, have the ball sit in the middle of the screen for a period of time before being "served".
+5.completed-(1 mark) Add the ability to speed up or slow down the ball by pressing a button.
+6.completed-(1 mark) Make the paddle(s) turn a different colour for 500 milliseconds when they are touched by the ball.
+7.completed-(1 mark) Add another ball to the game. The balls don't have to react when they hit each other (they can just pass through each other).
+8.completed-(2 marks) Make a game state in which the ball sticks to the paddle. The state should be toggled on and off by a key.
