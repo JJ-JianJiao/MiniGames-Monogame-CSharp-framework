@@ -4,26 +4,26 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/Background.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/Barrel.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/Cannon.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/CannonBall.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/CannonBall_01.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/CannonBall_02.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/CannonBall_03.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/CannonBall_04.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/Fireball.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/MarcoRossi.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/MenuBG.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/Mosquito.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/NetOne.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/NetTwo.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/NormalIcon.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/Poof.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/Shiled.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/SineIcon.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/SplitIcon.png</File>
-    <File>D:/NAIT/1514/Labs/MosquitoAttack/Content/SystemArialFont.spritefont</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/Background.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/Barrel.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/Cannon.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/CannonBall.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/CannonBall_01.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/CannonBall_02.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/CannonBall_03.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/CannonBall_04.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/Fireball.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/MarcoRossi.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/MenuBG.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/Mosquito.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/NetOne.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/NetTwo.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/NormalIcon.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/Poof.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/Shiled.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/SineIcon.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/SplitIcon.png</File>
+    <File>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/SystemArialFont.spritefont</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

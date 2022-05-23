@@ -795,7 +795,7 @@ namespace MosquitoAttack
         }
 
         public void DisplayHowToPlay(SpriteBatch spriteBatch) {
-            spriteBatch.DrawString(arial, "How To Play:\n<- / ->: Left / Right Move \nA/D: Rotate Barrel\n1/2/3: Change Attack Model\nR: Reload Bullets \nQ: Call Marco Rossi\nS: Active Shiled", Vector2.Zero, Color.Red * 0.8f, 0.0f, Vector2.Zero, Scale / 2, SpriteEffects.None, 0.0f);
+            spriteBatch.DrawString(arial, "How To Play:\n<- / ->: Left / Right Move \nA/D: Rotate Barrel\n1/2/3: Change Attack Model\nR: Reload Bullets \nQ: Call Marco Rossi\nS: Active Shiled\n\n\nDeveloper: Jian Jiao", Vector2.Zero, Color.Red * 0.8f, 0.0f, Vector2.Zero, Scale / 2, SpriteEffects.None, 0.0f);
         }
 
         internal void DrawReloadBar(SpriteBatch spriteBatch)
@@ -879,7 +879,7 @@ namespace MosquitoAttack
             }
             else if (IsPlayerDie || GameOver) {
                 spriteBatch.DrawString(arial, currentLevelStr, currentLevelStrPosition - new Vector2(0,30*Scale), Color.Red * 0.8f, 0.0f, Vector2.Zero, Scale * 2, SpriteEffects.None, 0.0f);
-                spriteBatch.DrawString(arial, "Developer: Jian \nInstructer:Conrad Nobert", Vector2.Zero, Color.Red * 0.8f, 0.0f, Vector2.Zero, Scale/1.2f, SpriteEffects.None, 0.0f);
+                spriteBatch.DrawString(arial, "Developer: Jian Jiao", Vector2.Zero, Color.Red * 0.8f, 0.0f, Vector2.Zero, Scale/1.2f, SpriteEffects.None, 0.0f);
 
                 if(JumpSceneTimer >= 1.5f) { 
                     spriteBatch.DrawString(arial, "Prese 'Enter' \nto return Menu.", currentLevelStrPosition + new Vector2(0,100*Scale), Color.Red * 0.8f, 0.0f, Vector2.Zero, Scale * 1, SpriteEffects.None, 0.0f);

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/NAIT/1514/Labs/MosquitoAttack/Content/MarcoRossi.png</SourceFile>
+  <SourceFile>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/MarcoRossi.png</SourceFile>
   <SourceTime>2020-03-20T23:50:51.0523983-06:00</SourceTime>
-  <DestFile>D:/NAIT/1514/Labs/MosquitoAttack/Content/bin/Windows/Content/MarcoRossi.xnb</DestFile>
-  <DestTime>2022-04-25T00:51:07.5439523-06:00</DestTime>
+  <DestFile>D:/NAIT/1514/MiniGames-Monogame-CSharp-framework/MosquitoAttack/Content/bin/Windows/Content/MarcoRossi.xnb</DestFile>
+  <DestTime>2022-05-23T10:27:27.3982949-06:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T09:35:54-07:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
